@@ -8,6 +8,5 @@ Contents:
 - `main.js` — scripts
 - `img/` — images
 
-Deployment:
-- I will initialize the repo and commit locally. Next step is to push to GitHub and then connect the repository to Netlify for deployment.
+
 
