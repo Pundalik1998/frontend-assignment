@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# Build
+dist/
+build/
