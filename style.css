@@ -876,7 +876,7 @@ label span {
 }
 
 .timeline-filter {
-  margin-bottom: 16px;
+  margin-bottom: 6px;
   position: relative;
   padding: 16px;
 }
@@ -923,6 +923,7 @@ label span {
   display: flex;
   flex-direction: column;
   padding: 16px;
+  margin-top: 6px;
 }
 
 /* ===== TIMELINE ITEMS ===== */
