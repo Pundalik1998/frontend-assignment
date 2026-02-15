@@ -424,7 +424,7 @@ nav.tabs {
 .task-tab {
   background: none;
   border: none;
-  padding: 12px var(--space-md);
+  padding: 12px 12px;
   font-size: 12px;
   font-weight: var(--font-weight-regular);
   color: #999;
